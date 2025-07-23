@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<user>/pcg-k8s-training.git
+    repoURL: https://github.com/brotbert/pcg-k8s-training.git
     targetRevision: HEAD
     path: extended/advanced/challenges/gitops-with-gateway/hello-world-app
   destination:
